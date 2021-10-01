@@ -1,3 +1,8 @@
+
+# By: Anikeith Bankar 
+
+This repo is a clone https://github.com/nelaturuk/education_pathways
+
 # CARTE Education Pathways
 
 ## Description
