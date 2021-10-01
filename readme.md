@@ -22,4 +22,6 @@ This repo is a clone https://github.com/nelaturuk/education_pathways
 # Activity 5
 
 Functional Requirement: Being able to input a course code and for it to actually show with its details.\
-Non-Functional Requirement: Being able to filter the courses by alphabetical/course offering times
+  - I would implement a backend service that atleast list out default course regardless of the search terms in the textbox given
+Non-Functional Requirement: Being able to filter the courses by alphabetical/course offering times\
+  - I would implement a sorting algorithm for the courses that do show up after the functional requirement listed above actually works
