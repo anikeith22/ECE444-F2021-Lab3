@@ -18,3 +18,8 @@ This repo is a clone https://github.com/nelaturuk/education_pathways
 # Activity 4
 
 ![Activity4](screenshots/Lab3_Activity4.png)
+
+# Activity 5
+
+Functional Requirement: Being able to input a course code and for it to actually show with its details.
+Non-Functional Requirement: Being able to filter the courses by alphabetical/course offering times
